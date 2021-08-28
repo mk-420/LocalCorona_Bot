@@ -1,8 +1,8 @@
 # LocalCorona_Bot
 This Bot takes input of districts of Republic of India and returns the active, confirmed, recovered and deceased patients.  
 Additional function of adding subscribers is there which if chosen sends data to user daily at a specefic time.
-<img src="img1.jpeg"> <br/>
-<img src="img2.jpeg"> <br/>
+<img src="img1.jpeg" width=100> <br/>
+<img src="img2.jpeg" width=100> <br/>
 
 Source of data https://api.covid19india.org/state_district_wise.json
 
